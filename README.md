@@ -129,8 +129,4 @@ This project exists thanks to all the people who [contribute](../../contributors
 ## License
 
 [MIT](LICENSE) © [infinitysoftware](https://infinitysoftware.io)
-# desktop-wallet
-# desktop-wallet
-# desktop-wallet
-# desktop-wallet
-# desktop-wallet
+
