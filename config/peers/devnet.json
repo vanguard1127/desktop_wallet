@@ -1,0 +1,26 @@
+[{
+  "ip": "142.93.106.212",
+  "port": 4003,
+  "isHttps": false,
+  "version": "2"
+}, {
+  "ip": "157.230.96.87",
+  "port": 4003,
+  "isHttps": false,
+  "version": "2"
+}, {
+  "ip": "63.250.54.240",
+  "port": 4003,
+  "isHttps": false,
+  "version": "2"
+}, {
+  "ip": "63.250.54.47",
+  "port": 4003,
+  "isHttps": false,
+  "version": "2"
+}, {
+  "ip": "63.250.53.250",
+  "port": 4003,
+  "isHttps": false,
+  "version": "2"
+}]

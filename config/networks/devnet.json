@@ -1,0 +1,64 @@
+{
+  "id": "inf.devnet",
+  "name": "INF Devnet",
+  "title": "INF Devnet",
+  "server": "http://134.122.119.115:4003",
+  "description": "The ARK Devnet is only used for R&D by engineers.",
+  "imagePath": "networks/ark.devnet.svg",
+  "apiVersion": 2,
+  "slip44": "1",
+  "market": {
+    "enabled": false,
+    "ticker": null
+  },
+  "feeStatistics": [
+    {
+      "type": 0,
+      "fees": {
+        "avgFee": 10,
+        "maxFee": 100000,
+        "minFee": 1
+      }
+    },
+    {
+      "type": 1,
+      "fees": {
+        "avgFee": 50,
+        "maxFee": 500000,
+        "minFee": 5
+      }
+    },
+    {
+      "type": 2,
+      "fees": {
+        "avgFee": 25,
+        "maxFee": 250000,
+        "minFee": 2
+      }
+    },
+    {
+      "type": 3,
+      "fees": {
+        "avgFee": 10,
+        "maxFee": 100000,
+        "minFee": 1
+      }
+    }
+  ],
+  "constants": {
+    "activeDelegates": 25,
+    "epoch": "2020-06-16T16:58:00.697Z"
+  },
+  "vendorField": {
+    "maxLength": 255
+  },
+  "nethash": "79cc63a4f2faf858b144ee4e47215995e31b4ac3d04de97c9aada9183db5a965",
+  "explorer": "https://explorer.infinitysolutions.io",
+  "knownWalletsUrl": "https://raw.githubusercontent.com/ArkEcosystem/common/master/devnet/known-wallets.json",
+  "token": "INF",
+  "subunit": "darktoshi",
+  "symbol": "∞",
+  "fractionDigits": 5,
+  "version": 137,
+  "wif": 100
+}
