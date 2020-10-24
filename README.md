@@ -8,10 +8,6 @@
 
 ## Download
 
-## Installing via Package Managers
-
-### Arch Linux`
-
 ### Mac OS X
 
 ## Translations
