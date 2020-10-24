@@ -3,7 +3,8 @@
   "name": "inf-desktop-wallet",
   "version": "1.0.0",
 
-  "author": "ArkEcosystem <info@ark.io>",
+  "author": "Infinity <info@infinitysolutions.io>",
+  "description": "Infinity Desktop Wallet",
  
   "homepage": "https://github.com/ArkEcosystem/desktop-wallet#readme",
   "main": "./dist/electron/main.js",

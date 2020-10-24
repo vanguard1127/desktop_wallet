@@ -157,7 +157,7 @@ export default {
 }
 
 .AppIntroScreen__container__left__logo {
-  background-color: #0d0c0c;
+  background-color: #c9292c;
   @apply .absolute .flex .justify-center .h-18 .w-18 .px-3 .py-4 .rounded-tl-lg .rounded-br-lg
 }
 

@@ -18,7 +18,7 @@ export default {
 
   data: () => ({
     text: '',
-    url: 'https://infinitysolutions.io'
+    url: 'https://ark.io'
   }),
 
   created () {

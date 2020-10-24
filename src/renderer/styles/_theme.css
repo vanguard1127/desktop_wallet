@@ -43,18 +43,17 @@
 
   --theme-feature: white;
   --theme-feature-item-text: #c0cddf;
-  --theme-feature-item-hover: #fef4f5;
+  --theme-feature-item-hover: #097385;/* Teal Blue */
   --theme-feature-item-alternative: #f0f2f9;
   --theme-feature-item-alternative-text: #8b9bab;
-  --theme-feature-item-hover-text: #e6b1b5;
-  --theme-feature-item-selected: #fef4f5;
-  --theme-feature-item-selected-text: #ce6970;
-  --theme-feature-item-indicator: #f03643;
+  --theme-feature-item-hover-text: #097385;/*change icon color on button when mouse are on*/
+  --theme-feature-item-selected: #D0CECB; /* this change the color on the button when you pass the mouse*/
+  --theme-feature-item-selected-text: #097385;
+  --theme-feature-item-indicator: #097385;/* #BD9444 light on side of the button gold color */
 
   --theme-secondary-feature: #f7f9fb;
 
-  --theme-button-special-choice: #e78068;
-
+  --theme-button-special-choice: #097385;
   --theme-heading-background: #343956;
   --theme-heading-text: #c0cddf;
 
@@ -75,7 +74,8 @@
   --theme-option-button-text: #8894cf;
   --theme-switch-button: #e0f0fd;
   --theme-option-heading-button: #3d456d;
-  --theme-option-heading-button-hover: #cc5e60;
+  --theme-option-heading-button-hover: #5eb4cc;/* blue */
+
   --theme-option-heading-button-text: #8894cf;
   --theme-option-heading-button-disabled: #3d404f;
   --theme-option-heading-button-text-disabled: #6d798a;
@@ -165,18 +165,19 @@
 
   --theme-feature: #2d2f38;
   --theme-feature-item-text: #5a5e7a;
-  --theme-feature-item-hover: #403645;
+  --theme-feature-item-hover: #097385;/* Teal Blue */
   --theme-feature-item-alternative: #363844;
   --theme-feature-item-alternative-text: #5d6483;
-  --theme-feature-item-selected: #403645; /* TODO: same as hover */
-  --theme-feature-item-selected-text: #c6799a;
-  --theme-feature-item-indicator: #f03643;
+  --theme-feature-item-selected: #000000; /* #4F3C02 this change the color on the button when you pass the mouse*/
+  --theme-feature-item-selected-text: #63c7cf;
+  /*--theme-feature-item-indicator: #f03643;*/
+  --theme-feature-item-indicator: #097385;/* #BD9444 light on side of the button gold color */
 
-  --theme-secondary-feature: #2e313a;
+  --theme-secondary-feature: #2e313a; /*2e313a*/
 
   --theme-button-special-choice: #e78068;
 
-  --theme-heading-background: #31333d;
+  --theme-heading-background: #31333d; /*31333d*/
   --theme-heading-text: #c0cddf;
   --theme-chart-price: white;
   --theme-chart-background: #373a43;
@@ -191,6 +192,7 @@
   --theme-action-button-text: #4c5166;
   --theme-action-button-text-hover: #7983af;
   --theme-option-button: #383c4d;
+  
   --theme-option-button-hover: #5eb4cc;
   --theme-option-button-text: #5b627c;
   --theme-switch-button: #383c4d;
@@ -222,12 +224,12 @@
   --theme-settings-switch: #414767;
   --theme-settings-control-title: #dae1e7;
 
-  --theme-voting-banner-background: #363844;
-  --theme-voting-banner-text: #707698;
-  --theme-voting-banner-button: #23252c;
-  --theme-voting-banner-button-hover: #2a2b31;
-  --theme-voting-banner-button-text: #787fa3;
-  --theme-voting-banner-button-text-hover: #787fa3;
+  --theme-voting-banner-background: #63c7cf;
+  --theme-voting-banner-text: #63c7cf;
+  --theme-voting-banner-button: #63c7cf;
+  --theme-voting-banner-button-hover: #63c7cf;
+  --theme-voting-banner-button-text: #63c7cf;
+  --theme-voting-banner-button-text-hover: #63c7cf;
 
   --theme-fee-gradient-start: var(--theme-modal);
   --theme-fee-gradient-end: rgba(0,124,255,0.20);
@@ -236,10 +238,10 @@
   --theme-fee-range-track: var(--theme-page-text-light);
   --theme-fee-range-track-active: var(--theme-button-text);
 
-  --theme-tooltip-icon: #333644;
-  --theme-tooltip-icon-hover: #919eca;
-  --theme-tooltip-icon-text: #4c5166;
-  --theme-tooltip-icon-hover-text: #383c4d;
+  --theme-tooltip-icon: #63c7cf;
+  --theme-tooltip-icon-hover: #63c7cf;
+  --theme-tooltip-icon-text: #63c7cf;
+  --theme-tooltip-icon-hover-text: #63c7cf;
 }
 
 #app {
