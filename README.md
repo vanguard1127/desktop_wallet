@@ -2,35 +2,17 @@
 
 ![Infinity Desktop Wallet](./banner.png)
 
-[![Build Status](https://badgen.now.sh/github/status/ArkEcosystem/desktop-wallet)](https://github.com/ArkEcosystem/desktop-wallet/actions?query=branch%3Adevelop)
-[![Latest Version](https://badgen.now.sh/github/release/ArkEcosystem/desktop-wallet)](https://github.com/ArkEcosystem/desktop-wallet/releases)
 [![License: MIT](https://badgen.now.sh/badge/license/MIT/green)](https://opensource.org/licenses/MIT)
 
 > Lead Maintainer: [Plusid](https://github.com/plusid)
 
 ## Download
 
-[Latest Release](https://github.com/ArkEcosystem/ark-desktop/releases/latest)
-
 ## Installing via Package Managers
 
-### Arch Linux
-
-Install via [AUR](https://aur.archlinux.org/packages/ark-desktop):
-
-> Manjaro
-
-```shell
-pamac build ark-desktop
-```
+### Arch Linux`
 
 ### Mac OS X
-
-Install via [Homebrew](https://brew.sh/):
-
-```shell
-brew cask install ark-desktop-wallet
-```
 
 ## Translations
 
