@@ -262,6 +262,10 @@ export default {
     }
   },
 
+  APP_FOOTER: {
+    TEXT: '♥ Infinity'
+  },
+
   APP_SIDEMENU: {
     ANNOUNCEMENTS: 'Announcements',
     CONTACTS: 'My contacts',
