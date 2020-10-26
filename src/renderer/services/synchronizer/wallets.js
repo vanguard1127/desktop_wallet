@@ -414,7 +414,7 @@ class Action {
           translation: `SYNCHRONIZER.GROUP_1.NEW_MULTI_PAYMENT_${type}`,
           options: {
             address: truncateMiddle(wallet.address),
-            amount: `${this.$getters['session/network'].symbol}${(amount / 1e8)}`,
+            amount: `${this.$getters['session/network'].symbol}${(amount / 1e5)}`,
             sender: truncateMiddle(transaction.sender),
             recipient
           }
@@ -437,7 +437,7 @@ class Action {
           translation: `SYNCHRONIZER.GROUP_1.NEW_TRANSFER_${type}`,
           options: {
             address: truncateMiddle(wallet.address),
-            amount: `${this.$getters['session/network'].symbol}${(transaction.amount / 1e8)}`,
+            amount: `${this.$getters['session/network'].symbol}${(transaction.amount / 1e5)}`,
             sender: truncateMiddle(transaction.sender),
             recipient: truncateMiddle(transaction.recipient)
           }

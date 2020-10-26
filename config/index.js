@@ -18,7 +18,7 @@ exports.PEERS = {
 }
 
 exports.ANNOUNCEMENTS = {
-  rssUrl: 'https://blog.infinitysolutions.io/feed'
+  rssUrl: 'https://www.bfmtv.com/rss/news-24-7/'
 }
 
 exports.VENDOR_FIELD = {

@@ -132,7 +132,7 @@ export default {
 
   data: () => ({
     chosenFee: 'AVERAGE',
-    step: 1e-8,
+    step: 1e-5,
     fee: 0
   }),
 

@@ -225,10 +225,10 @@
   --theme-settings-control-title: #dae1e7;
 
   --theme-voting-banner-background: #63c7cf;
-  --theme-voting-banner-text: #63c7cf;
+  --theme-voting-banner-text: #707698;
   --theme-voting-banner-button: #63c7cf;
   --theme-voting-banner-button-hover: #63c7cf;
-  --theme-voting-banner-button-text: #63c7cf;
+  --theme-voting-banner-button-text: #787fa3;
   --theme-voting-banner-button-text-hover: #63c7cf;
 
   --theme-fee-gradient-start: var(--theme-modal);
@@ -240,7 +240,7 @@
 
   --theme-tooltip-icon: #63c7cf;
   --theme-tooltip-icon-hover: #63c7cf;
-  --theme-tooltip-icon-text: #63c7cf;
+  --theme-tooltip-icon-text: #c0cddf;
   --theme-tooltip-icon-hover-text: #63c7cf;
 }
 

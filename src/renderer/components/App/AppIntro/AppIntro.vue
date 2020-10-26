@@ -226,6 +226,6 @@ export default {
 
 <style lang="postcss" scoped>
 .AppIntro__1 .AppIntroScreen__container__left {
-  background-color: #c9292c;
+  background-color: #2d2f38;
 }
 </style>
